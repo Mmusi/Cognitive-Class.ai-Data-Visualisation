@@ -15,4 +15,4 @@ If any part of my writing does not ake any sense or clear, then it means I am no
 
 <hr>
 
-Copyright &copy; 2020. This notebook and its source code are released under the terms of the [MIT License].
+Copyright &copy; 2020. These notebooks and the source codes are released under the terms of the [MIT License].
